@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exchange Calculator</string>
+    <string name="QualOValor">DIGITE O VALOR EM REAL ABAIXO</string>
+    <string name="valor">valor</string>
+    <string name="valorDolar">A cotação em dólar é:</string>
+    <string name="valoreuro">A cotação em euro é: </string>
+    <string name="calcular">Calcular</string>
+    <string name="informeValor">Você Esqueceu de Informar um Valor!</string>
+</resources>
